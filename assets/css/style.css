@@ -233,6 +233,7 @@ section {
 .trainer {
   background: #024e76;
   color: #fce138;
+  margin: 20px;
   flex: 1;
 }
 
